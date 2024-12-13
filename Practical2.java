@@ -1,4 +1,4 @@
-class Product {
+ class Product {
     int productId;
     String productName;
     double price;
@@ -41,4 +41,3 @@ class Product {
             System.out.println(Product.count);
         }
     }
-
